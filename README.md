@@ -1,2 +1,2 @@
-# Cursos_Alura
-Repositório para os cursos ministrados na plataforma Alura.
+# Cursos
+Repositório para os cursos ministrados na plataforma Alura ou testes de novas funcionalidades de estudo.
